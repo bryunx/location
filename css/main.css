@@ -1,0 +1,19 @@
+body, html {
+  height: 100%;
+  width: 100%;
+}
+
+#myposition {
+	text-align: center;
+}
+
+#map {
+  width: 100%;
+  height: 100%;
+}
+
+/*#map {
+  width:940px;
+  height:480px;
+  margin: auto;
+}*/
